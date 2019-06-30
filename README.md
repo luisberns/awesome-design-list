@@ -9,6 +9,7 @@ This content is intended to be a reference of tools, methodology and other conte
 ### Slack Communities
 
 - [IxDA Brazil](https://ixdabr.herokuapp.com/)
+- [Dev Paraná](https://slack.devparana.org/) #design-ui-ux
 - [Design Systems, Jina Anne](http://design.systems/slack/)
 - [Product School](https://www.productschool.com/slack-community/)
 - [Mind the Product](http://slack.mindtheproduct.com/)
