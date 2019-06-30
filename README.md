@@ -60,6 +60,7 @@ This content is intended to be a reference of tools, methodology and other conte
 - [designsystems.io, content sharing](https://www.designsystems.io/)
 - [Website Style Guide Resources](http://styleguides.io/)
 - [Pattern Lab](https://patternlab.io/)
+- [Page Flows, user flows to inspire](https://pageflows.com/)
 
 ### Podcasts
 
@@ -83,9 +84,35 @@ This content is intended to be a reference of tools, methodology and other conte
 ### Design Tools
 
 - [Miro - formally Realtime Board](https://miro.com/)
+- [UX Pressia](https://uxpressia.com/)
+- [Milanote](https://milanote.com/)
+
+### Wireframe and Prototype (UI Design)
+
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Figma, great for linux users' with the online tool](https://www.figma.com)
 - [Sketch, mac only](https://www.sketch.com/)
+- [Framer, design and code](https://www.framer.com/design/)
+
+### Personas
+
+- [Make My Persona, Hubspot](https://www.hubspot.com/make-my-persona)
+- [User Forge](https://userforge.com/)
+- [UX Pressia Persona](https://uxpressia.com/personas-online-tool)
+
+### User Jorney and Flows
+
+- [Milkmap](https://milkymap.com/)
+- [Flowmapp](https://flowmapp.com/)
+- [Wireflow](http://wireflow.co/)
+- [Draw.io](https://draw.io)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Overflow](https://overflow.io/)
+
+### Forms and Surveys
+
+- [Google Surveys](https://marketingplatform.google.com/about/surveys/)
+- [Google Forms](https://forms.google.com)
 
 ### Documentation and Team Work
 
@@ -107,8 +134,3 @@ This content is intended to be a reference of tools, methodology and other conte
 - [Google Optimize](https://marketingplatform.google.com/about/optimize/)
 - [Heap](https://heap.io/)
 - [Amplitude](https://amplitude.com/)
-
-### UX Research Tools
-
-- [Google Surveys](https://marketingplatform.google.com/about/surveys/)
-- [Google Forms](https://forms.google.com)
