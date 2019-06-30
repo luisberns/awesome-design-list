@@ -2,10 +2,6 @@ This content is intended to be a reference of tools, methodology and other conte
 
 ---
 
-## Summary
-
----
-
 ## Events and Community
 
 ### Slack Communities
@@ -30,6 +26,7 @@ This content is intended to be a reference of tools, methodology and other conte
 
 ### Online Courses
 
+- [IDEO Design Courses](https://www.ideou.com/)
 - [Design Sprint Foundations, Udacity](https://www.udacity.com/course/design-sprint-foundations-nanodegree--nd201)
 - [Udacity, UX Courses](https://www.udacity.com/courses/all?keyword=ux)
 - [Coursera, UX Design Courses](https://www.coursera.org/courses?query=ux)
@@ -37,6 +34,13 @@ This content is intended to be a reference of tools, methodology and other conte
 - [Design Lab](https://trydesignlab.com/)
 - [Pluralsight UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)
 - [Interaction Design Foundation](https://www.interaction-design.org/courses)
+- [Virtual Crash Course in Design Thinking, Stanford](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
+
+### Reading Courses & Handbooks
+
+- [UX Apprentice](https://www.uxapprentice.com/)
+- [Hack Design Lessons](https://hackdesign.org/lessons)
+- [Design Better Books](https://www.designbetter.co/books)
 
 ### Online Resources
 
