@@ -1,4 +1,4 @@
-[Home](README.md)/[design-process](design-process.md)
+[Home](README.md) / [double-diamond](double-diamond.md)
 
 ---
 
