@@ -1,3 +1,7 @@
+[Home](README.md)
+
+---
+
 # Design Thinking para Negócios
 
 ## Sobre a metodologia
@@ -101,6 +105,7 @@ Essa validação deverá ser realizada com um protótipo ou uma aplicação em u
 
 ## Processo de Design
 
-[Design Process](https://app.milanote.com/1HcMR21SG6vnd7)
+![Design Process](assets/design-process.png)
+[Design Process](design-process.md)
 
 Acesse aqui uma explicação sobre os **entregáveis** propostos em cada fase da metodologia.
