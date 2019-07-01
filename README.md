@@ -4,6 +4,10 @@ This content is intended to be a reference of tools, methodology and other conte
 
 ---
 
+> [Resumo da Metodologia Double Diamond (pt-br) e referências de ferramentas aplicadas no processo.](double-diamond.md)
+
+---
+
 ## Events and Community
 
 ### Slack Communities
