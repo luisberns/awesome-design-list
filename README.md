@@ -49,6 +49,11 @@ This content is intended to be a reference of tools, methodology and other conte
 - [Hack Design Lessons](https://hackdesign.org/lessons)
 - [Design Better Books](https://www.designbetter.co/books)
 
+### Blogs and Content sharing
+
+- [Think With Google](https://www.thinkwithgoogle.com/)
+- [Medium](http://medium.com)
+
 ### Online Resources
 
 - [Evernote Design, all-in-one bookmark links for Designer](https://www.evernote.design/)
