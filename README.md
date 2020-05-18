@@ -96,11 +96,12 @@ This content is intended to be a reference of tools, methodology and other conte
 - [Miro - formally Realtime Board](https://miro.com/)
 - [UX Pressia](https://uxpressia.com/)
 - [Milanote](https://milanote.com/)
+- [Leonardo - open source contrast color generator](https://leonardocolor.io/)
 
 ### Wireframe and Prototype (UI Design)
 
 - [Adobe XD](https://www.adobe.com/products/xd.html)
-- [Figma, great for linux users' with the online tool](https://www.figma.com)
+- [Figma, great for linux users with the online tool](https://www.figma.com)
 - [Sketch, mac only](https://www.sketch.com/)
 - [Framer, design and code](https://www.framer.com/design/)
 
