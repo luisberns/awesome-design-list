@@ -53,6 +53,7 @@ This content is intended to be a reference of tools, methodology and other conte
 
 - [Think With Google](https://www.thinkwithgoogle.com/)
 - [Medium](http://medium.com)
+- [Design Strategy Guide](https://designstrategy.guide/)
 
 ### Online Resources
 
