@@ -43,17 +43,20 @@ This content is intended to be a reference of tools, methodology and other conte
 - [Interaction Design Foundation](https://www.interaction-design.org/courses)
 - [Virtual Crash Course in Design Thinking, Stanford](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
 
-### Reading Courses & Handbooks
+### Reading Courses & Guidebooks
 
 - [UX Apprentice](https://www.uxapprentice.com/)
 - [Hack Design Lessons](https://hackdesign.org/lessons)
 - [Design Better Books](https://www.designbetter.co/books)
+- [Conversational Design Google](https://designguidelines.withgoogle.com/conversation/conversation-design/welcome.html#)
+- [PAIR w/ Google, AI with people in mind](https://pair.withgoogle.com/guidebook/)
 
 ### Blogs and Content sharing
 
 - [Think With Google](https://www.thinkwithgoogle.com/)
 - [Medium](http://medium.com)
 - [Design Strategy Guide](https://designstrategy.guide/)
+- [The State of UX 2020](https://trends.uxdesign.cc/)
 
 ### Online Resources
 
