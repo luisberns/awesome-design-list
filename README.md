@@ -149,3 +149,8 @@ This content is intended to be a reference of tools, methodology and other conte
 - [Google Optimize](https://marketingplatform.google.com/about/optimize/)
 - [Heap](https://heap.io/)
 - [Amplitude](https://amplitude.com/)
+
+### Metrics Frameworks
+
+- [HEART Framework, by Google](https://www.dtelepathy.com/ux-metrics/)
+- [RACE Method](https://www.smartinsights.com/digital-marketing-strategy/race-a-practical-framework-to-improve-your-digital-marketing/)
